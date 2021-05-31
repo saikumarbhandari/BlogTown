@@ -1,2 +1,8 @@
-# BlogTown
-BlogTown is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.
+# blogtown
+
+
+ clone the directory 
+ 
+ npm install 
+ 
+ run app.js 
